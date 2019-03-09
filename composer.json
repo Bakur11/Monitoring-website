@@ -1,12 +1,12 @@
 {
-    "name": "buonzz/composer-library-template",
+    "name": "monitoring/monitoring",
     "description": "Boilerplate package for creating other packages.",
     "keywords": ["template", "composer", "package"],
-    "license": "DBAD",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Darwin Biler",
-            "email": "buonzz@gmail.com"
+            "name": "Bakur Hambardzumyan",
+            "email": "Hamrdzumyan.bakur@gmail.com"
         }
     ],
     "type": "project",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Buonzz\\Template\\": "src/"
+            "Monitoring\\Contact\\": "src/"
         }
     }
 }
