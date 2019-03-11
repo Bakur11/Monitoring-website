@@ -1,5 +1,5 @@
 {
-    "name": "monitoring/contact",
+    "name": "bakur/monitoring",
     "description": "Boilerplate package for creating other packages.",
     "keywords": ["template", "composer", "package"],
     "license": "MIT",
