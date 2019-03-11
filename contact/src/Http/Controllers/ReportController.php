@@ -11,7 +11,6 @@ class ReportController extends Controller
 {
     public function linkReports($id)
     {
-
         return view('monitoring::reports')->with('id', $id);
     }
 
