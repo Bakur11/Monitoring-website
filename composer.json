@@ -1,5 +1,5 @@
 {
-    "name": "monitoring/monitoring",
+    "name": "monitoring/contact",
     "description": "Boilerplate package for creating other packages.",
     "keywords": ["template", "composer", "package"],
     "license": "MIT",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Package\\Contact\\": "src/"
+            "Monitoring\\Contact\\": "src/"
         }
     }
 }
