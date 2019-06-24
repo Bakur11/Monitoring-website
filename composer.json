@@ -12,10 +12,11 @@
     ],
     "type": "project",
     "require": {
-	    	"bakur/monitoring": "dev-master",
+	    	
 		"php": ">=7.1"
     },
     "require-dev": {
+	    "bakur/monitoring": "dev-master",
 		"phpunit/phpunit": "6.*"
     },
     "autoload": {
