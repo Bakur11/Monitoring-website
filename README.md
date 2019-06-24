@@ -3,4 +3,4 @@ Package
 
 
 #Install
-composer create-project bakur/monitoring
+composer require bakur/monitoring
