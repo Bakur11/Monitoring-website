@@ -3,4 +3,4 @@ Package
 
 
 #Install
-composer create-project website/healthy
+composer create-project bakur/monitoring
