@@ -1,6 +1,5 @@
 {
     "name": "bakur/monitoring",
-    "minimum-stability": "dev",
     "description": "WebSite Healthy.",
     "keywords": ["template", "composer", "package"],
     "license": "MIT",
@@ -16,7 +15,6 @@
 		"php": ">=7.1"
     },
     "require-dev": {
-	    "bakur/monitoring": "dev-master",
 		"phpunit/phpunit": "6.*"
     },
     "autoload": {
