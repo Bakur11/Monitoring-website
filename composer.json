@@ -1,5 +1,6 @@
 {
     "name": "website/healthy",
+    "minimum-stability": "dev"
     "description": "WebSite Healthy.",
     "keywords": ["template", "composer", "package"],
     "license": "MIT",
@@ -11,6 +12,7 @@
     ],
     "type": "project",
     "require": {
+	        "website/healthy": "dev-master"
 		"php": ">=7.1"
     },
     "require-dev": {
